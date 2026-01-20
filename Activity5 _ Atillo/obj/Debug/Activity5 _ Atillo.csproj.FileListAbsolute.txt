@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\Activity5 _ Atillo\bin\Debug\Activity5 _ Atillo.exe.config
+C:\Users\ACT-STUDENT\source\repos\Activity5 _ Atillo\bin\Debug\Activity5 _ Atillo.exe
+C:\Users\ACT-STUDENT\source\repos\Activity5 _ Atillo\bin\Debug\Activity5 _ Atillo.pdb
+C:\Users\ACT-STUDENT\source\repos\Activity5 _ Atillo\obj\Debug\Activity5 _ Atillo.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Activity5 _ Atillo\obj\Debug\Activity5 _ Atillo.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Activity5 _ Atillo\obj\Debug\Activity5 _ Atillo.exe
+C:\Users\ACT-STUDENT\source\repos\Activity5 _ Atillo\obj\Debug\Activity5 _ Atillo.pdb
+C:\Users\ACT-STUDENT\source\repos\Activity5 _ Atillo\obj\Debug\Activity5 _ Atillo.exe.config
