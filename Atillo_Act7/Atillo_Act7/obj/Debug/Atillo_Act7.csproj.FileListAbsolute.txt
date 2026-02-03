@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\source\repos\Atillo_Act7\Atillo_Act7\bin\Debug\Atillo_Act7.exe.config
+C:\Users\ACT-STUDENT\source\repos\Atillo_Act7\Atillo_Act7\bin\Debug\Atillo_Act7.exe
+C:\Users\ACT-STUDENT\source\repos\Atillo_Act7\Atillo_Act7\bin\Debug\Atillo_Act7.pdb
+C:\Users\ACT-STUDENT\source\repos\Atillo_Act7\Atillo_Act7\obj\Debug\Atillo_Act7.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Atillo_Act7\Atillo_Act7\obj\Debug\Atillo_Act7.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Atillo_Act7\Atillo_Act7\obj\Debug\Atillo_Act7.exe
+C:\Users\ACT-STUDENT\source\repos\Atillo_Act7\Atillo_Act7\obj\Debug\Atillo_Act7.pdb
