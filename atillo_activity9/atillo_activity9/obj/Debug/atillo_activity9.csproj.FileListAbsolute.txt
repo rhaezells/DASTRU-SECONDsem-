@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\source\repos\atillo_activity9\atillo_activity9\bin\Debug\atillo_activity9.exe.config
+C:\Users\ACT-STUDENT\source\repos\atillo_activity9\atillo_activity9\bin\Debug\atillo_activity9.exe
+C:\Users\ACT-STUDENT\source\repos\atillo_activity9\atillo_activity9\bin\Debug\atillo_activity9.pdb
+C:\Users\ACT-STUDENT\source\repos\atillo_activity9\atillo_activity9\obj\Debug\atillo_activity9.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\atillo_activity9\atillo_activity9\obj\Debug\atillo_activity9.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\atillo_activity9\atillo_activity9\obj\Debug\atillo_activity9.exe
+C:\Users\ACT-STUDENT\source\repos\atillo_activity9\atillo_activity9\obj\Debug\atillo_activity9.pdb
