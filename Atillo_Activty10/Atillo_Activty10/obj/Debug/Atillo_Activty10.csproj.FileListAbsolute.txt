@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\Atillo_Activty10\Atillo_Activty10\bin\Debug\Atillo_Activty10.exe.config
+C:\Users\ACT-STUDENT\source\repos\Atillo_Activty10\Atillo_Activty10\bin\Debug\Atillo_Activty10.exe
+C:\Users\ACT-STUDENT\source\repos\Atillo_Activty10\Atillo_Activty10\bin\Debug\Atillo_Activty10.pdb
+C:\Users\ACT-STUDENT\source\repos\Atillo_Activty10\Atillo_Activty10\obj\Debug\Atillo_Activty10.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Atillo_Activty10\Atillo_Activty10\obj\Debug\Atillo_Activty10.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Atillo_Activty10\Atillo_Activty10\obj\Debug\Atillo_Activty10.exe
+C:\Users\ACT-STUDENT\source\repos\Atillo_Activty10\Atillo_Activty10\obj\Debug\Atillo_Activty10.pdb
+C:\Users\ACT-STUDENT\source\repos\Atillo_Activty10\Atillo_Activty10\obj\Debug\Atillo_Activty10.exe.config

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atillo_Activty10", "Atillo_Activty10\Atillo_Activty10.csproj", "{1534C56D-8104-44AB-BC81-3E5BC17001FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1534C56D-8104-44AB-BC81-3E5BC17001FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1534C56D-8104-44AB-BC81-3E5BC17001FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1534C56D-8104-44AB-BC81-3E5BC17001FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1534C56D-8104-44AB-BC81-3E5BC17001FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {034442DC-1C98-4544-A5F7-DF8DDFC8711E}
+	EndGlobalSection
+EndGlobal
